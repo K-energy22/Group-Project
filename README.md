@@ -9,7 +9,8 @@ High priority
  - [ ] Collision (visible walls and floors)
  - [ ] Triggers (player touches the key, key then disappear) 
  - [ ] HUD (shows the keys being collected, the amount of bullet the player has, and a health meter)
- Low priority 
+ Low priority
+
 - [ ] Background art (inside a dark laboratory)
 - [ ] Player input shift key (player can run when shift is pressed)
 - [ ] Title menu screen 
