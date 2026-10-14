@@ -1,4 +1,5 @@
 # Group Project
+2D game
 High priority
  - [x] Main player sprite (scientist)
  - [ ] Main boss sprite (giant zombie scientist)
